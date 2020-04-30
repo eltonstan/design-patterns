@@ -1,4 +1,4 @@
-package TemplateMethod;
+package br.com.alura.TemplateMethod;
 
 import java.util.ArrayList;
 import java.util.Collections;

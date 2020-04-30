@@ -1,4 +1,4 @@
-package TemplateMethod;
+package br.com.alura.TemplateMethod;
 
 public class IKCV extends TemplateDeImpostoCondicional {
 
